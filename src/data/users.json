@@ -1,0 +1,12 @@
+[
+	{
+		"id" : 1,
+		"name" : "Passito",
+		"email" : "test@ticketpass.org",
+		"email_verified_at" : null,
+		"password" : "Ticketpass2022",
+		"remember_token" : null,
+		"created_at" : null,
+		"updated_at" : null
+	}
+]
